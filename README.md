@@ -17,6 +17,12 @@ Escritorio\HANDYCAM\
 
 > ✅ **Probado en una Panasonic HC-V130.** Ver [compatibilidad](#compatibilidad-con-otras-cámaras) para otros modelos.
 
+## Descarga
+
+**[⬇ HANDYCAM-v1.0.0-windows-x64.zip](https://github.com/SantiagosWorkplace/panasonic-avchd-to-mp4/releases/latest/download/HANDYCAM-v1.0.0-windows-x64.zip)** (109 MB, Windows 64 bits)
+
+Descomprimilo y abrí `HANDYCAM\HANDYCAM.exe`. Java y ffmpeg ya vienen incluidos, así que no hay que instalar nada. Todas las versiones están en [Releases](https://github.com/SantiagosWorkplace/panasonic-avchd-to-mp4/releases).
+
 ## Por qué
 
 La HC-V130 graba con su mejor calidad en AVCHD (modo **HA**), pero eso deja archivos `.MTS` entrelazados (60i) dentro de una estructura de carpetas difícil de recorrer. Su MP4 nativo, en cambio, llega solo a 1080/30p.
